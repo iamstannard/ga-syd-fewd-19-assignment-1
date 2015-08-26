@@ -10,18 +10,18 @@ For the first assignment, you will begin creating the beginnings of your first w
 
 Student: Aaron Stannard
 
-Project URL: https://github.com/iamstannard/homework-portfolio
+Project URL: https://github.com/iamstannard/ga-syd-fewd-19-assignment-1
 
 
 
 | Technical Requirements                                                                                                                                                        | Does Not Meet Expectations (0) | Meets Expectations (1) | Exceeds Expectations (2) |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|------------------------|--------------------------|
-| Link both pages together using `a` tag                                                                                                                                        |                                |                        |                          |
-| Use a unique `title` and a single unique `h1` tag                                                                                                                             |                                |                        |                          |
-| Show images using `img` tags including unique `alt` attributes                                                                                                                |                                |                        |                          |
-| Use an external CSS stylesheet to style your pages                                                                                                                            |                                |                        |                          |
-| Select at least 5 elements on the page and apply at least 5 different css properties (`font-size`, `color`, `font-family`, `background`, `text-decoration`) to these elements |                                |                        |                          |
-| Use at least 6 different HTML tags (`h1`, `h2`, `h3`, `h4`, `h5`, `h6`, `p`, `ul`, `ol`, `a`, `img`) on your pages                                                            |                                |                        |                          |
-| Follow naming conventions, maintain consistency across your .html and .css files                                                                                              |                                |                        |                          |
-| Indent nested elements to increase your code's readability                                                                                                                    |                                |                        |                          |
-| TOTAL: ______/16  
+| Link both pages together using `a` tag                                                                                                                                        |                                |                        |          2               |
+| Use a unique `title` and a single unique `h1` tag                                                                                                                             |                                |         1              |                          |
+| Show images using `img` tags including unique `alt` attributes                                                                                                                |                                |                        |          2               |
+| Use an external CSS stylesheet to style your pages                                                                                                                            |                                |                        |          2               |
+| Select at least 5 elements on the page and apply at least 5 different css properties (`font-size`, `color`, `font-family`, `background`, `text-decoration`) to these elements |                                |         1              |                          |
+| Use at least 6 different HTML tags (`h1`, `h2`, `h3`, `h4`, `h5`, `h6`, `p`, `ul`, `ol`, `a`, `img`) on your pages                                                            |                                |                        |          2               |
+| Follow naming conventions, maintain consistency across your .html and .css files                                                                                              |                                |                        |          2               |
+| Indent nested elements to increase your code's readability                                                                                                                    |                                |                        |          2               |
+| TOTAL: 1414141414141414141414141414/16  
