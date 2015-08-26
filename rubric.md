@@ -10,7 +10,7 @@ For the first assignment, you will begin creating the beginnings of your first w
 
 Student: Aaron Stannard
 
-Project URL: https://github.com/iamstannard/ga-syd-fewd-19-assignment-1
+Project URL: https://github.com/iamstannard/homework-portfolio
 
 
 
